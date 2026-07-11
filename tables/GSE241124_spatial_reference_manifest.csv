@@ -1,0 +1,17 @@
+orig.ident,Patient,Donor,Gender,Age,Seq_Batch,Condition,Sample_name
+P17401_1001,PWH19,Donor1,Male,24,1,Skin,Donor1_Skin
+P17401_1002,PWH19,Donor1,Male,24,1,Wound1,Donor1_Wound1
+P17401_1003,PWH19,Donor1,Male,24,1,Wound7,Donor1_Wound7
+P17401_1004,PWH19,Donor1,Male,24,1,Wound30,Donor1_Wound30
+P20063_101,PWH20,Donor2,Female,46,2,Skin,Donor2_Skin
+P20063_102,PWH20,Donor2,Female,46,2,Wound1,Donor2_Wound1
+P20063_103,PWH20,Donor2,Female,46,2,Wound7,Donor2_Wound7
+P20063_104,PWH20,Donor2,Female,46,2,Wound30,Donor2_Wound30
+P20063_105,PWH28,Donor3,Male,24,3,Skin,Donor3_Skin
+P20063_106,PWH28,Donor3,Male,24,3,Wound1,Donor3_Wound1
+P20063_107,PWH28,Donor3,Male,24,3,Wound7,Donor3_Wound7
+P20063_108,PWH28,Donor3,Male,24,3,Wound30,Donor3_Wound30
+P20063_109,PWH27,Donor4,Female,22,3,Skin,Donor4_Skin
+P20063_110,PWH27,Donor4,Female,22,3,Wound1,Donor4_Wound1
+P20063_111,PWH27,Donor4,Female,22,3,Wound7,Donor4_Wound7
+P20063_112,PWH27,Donor4,Female,22,3,Wound30,Donor4_Wound30

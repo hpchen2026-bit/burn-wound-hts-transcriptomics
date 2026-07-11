@@ -1,0 +1,5 @@
+contrast,stage_only_vs_age_sex_logFC_r,stage_only_vs_nonE_logFC_r,FDR05_overlap_with_nonE,same_direction_overlap
+early_wound_vs_normal_skin,0.9999,0.9996,15031,15031
+late_wound_vs_normal_skin,0.9997,0.9990,14930,14930
+hypertrophic_scar_vs_normal_skin,0.9994,0.9719,10260,10260
+hypertrophic_scar_vs_late_wound,0.9981,0.9460,7179,7179

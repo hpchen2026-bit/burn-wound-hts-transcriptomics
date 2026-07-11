@@ -1,0 +1,9 @@
+# Prevent source archives, credentials, and large local intermediates from entering the public repository.
+*.tar
+*.gz
+*.h5
+*.rds
+.env
+.DS_Store
+__pycache__/
+*.pyc

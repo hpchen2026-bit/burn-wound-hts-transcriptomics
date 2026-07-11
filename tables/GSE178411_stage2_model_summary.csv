@@ -1,0 +1,13 @@
+mode,contrast,samples,genes,FDR05,up_FDR05,down_FDR05,consensus_subject_correlation
+stage_only,early_wound_vs_normal_skin,103,18829,15187,7478,7709,0.26189719489665475
+stage_only,late_wound_vs_normal_skin,103,18829,15278,7460,7818,0.26189719489665475
+stage_only,hypertrophic_scar_vs_normal_skin,103,18829,14032,6789,7243,0.26189719489665475
+stage_only,hypertrophic_scar_vs_late_wound,103,18829,11676,6631,5045,0.26189719489665475
+age_sex_adjusted,early_wound_vs_normal_skin,101,18829,15312,7576,7736,0.24749349922266445
+age_sex_adjusted,late_wound_vs_normal_skin,101,18829,15289,7495,7794,0.24749349922266445
+age_sex_adjusted,hypertrophic_scar_vs_normal_skin,101,18829,14013,6792,7221,0.24749349922266445
+age_sex_adjusted,hypertrophic_scar_vs_late_wound,101,18829,11581,6553,5028,0.24749349922266445
+nonE_restricted,early_wound_vs_normal_skin,79,18829,15254,7582,7672,0.2404552554802284
+nonE_restricted,late_wound_vs_normal_skin,79,18829,15148,7410,7738,0.2404552554802284
+nonE_restricted,hypertrophic_scar_vs_normal_skin,79,18829,10800,5416,5384,0.2404552554802284
+nonE_restricted,hypertrophic_scar_vs_late_wound,79,18829,7821,4435,3386,0.2404552554802284

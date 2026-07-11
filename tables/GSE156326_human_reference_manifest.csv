@@ -1,0 +1,7 @@
+GSM,title,organism,analysis_role,include
+GSM4729097,human_skin_1,Homo sapiens,human_HTS_cell_source_reference,True
+GSM4729098,human_skin_2,Homo sapiens,human_HTS_cell_source_reference,True
+GSM4729099,human_skin_3,Homo sapiens,human_HTS_cell_source_reference,True
+GSM4729100,human_scar_1,Homo sapiens,human_HTS_cell_source_reference,True
+GSM4729101,human_scar_2,Homo sapiens,human_HTS_cell_source_reference,True
+GSM4729102,human_scar_3,Homo sapiens,human_HTS_cell_source_reference,True

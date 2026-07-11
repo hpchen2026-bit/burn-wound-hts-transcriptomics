@@ -1,0 +1,30 @@
+project:
+  codename: 2026-GEO-Burn-Wound-HTS-Transition-active
+  seed: 20260711
+paths:
+  counts: 02-data-raw/GEO/original/GSE178411_counts.txt.gz
+  manifest: 04-tables/GSE178411_sample_manifest_v0.2.csv
+  tables: 04-tables
+  results: 05-results
+  audit: 05-results/audit
+analysis:
+  count_gene_identifier: Entrez_ID_no_header_label
+  primary_groups:
+    - normal_skin
+    - early_wound
+    - late_wound
+    - hypertrophic_scar
+  excluded_primary_groups:
+    - chronic_wound_exploratory
+    - normal_scar_exploratory
+  primary_contrasts:
+    - early_wound_vs_normal_skin
+    - late_wound_vs_normal_skin
+    - hypertrophic_scar_vs_normal_skin
+    - hypertrophic_scar_vs_late_wound
+  repeated_subject_strategy: duplicate_correlation_or_subject_aware_sensitivity
+  no_patient_level_temporal_claim: true
+  module_inference: camera_or_fgsea_after_fixed_contrasts
+  single_cell_role: external_cell_source_localization_only
+  drug_prediction: false
+  diagnostic_classifier: false

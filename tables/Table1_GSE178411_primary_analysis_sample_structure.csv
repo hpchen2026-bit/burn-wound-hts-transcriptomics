@@ -1,0 +1,5 @@
+analysis_group,specimens,unique_source_subjects,subjects_with_multiple_specimens_within_group,median_age_years,female_specimens,male_specimens,paired_normal_skin_available_for_specimen
+early_wound,22,19,3,27.0,6,16,11
+late_wound,29,23,5,35.5,11,18,14
+normal_skin,24,24,0,30.5,8,16,0
+hypertrophic_scar,28,26,1,19.0,12,16,2
