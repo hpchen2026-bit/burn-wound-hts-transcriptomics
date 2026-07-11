@@ -1,0 +1,23 @@
+{
+  "title": "Burn wound–hypertrophic scar transcriptomics: reproducible analysis archive",
+  "description": "Reproducible code, derived results, audit records and source manifests for a cross-sectional secondary analysis of public human burn wound and hypertrophic scar transcriptomic datasets. The analysis uses GSE178411 as the primary bulk cohort and GSE156326 and GSE241124 as external human references. Raw GEO archives and credentials are intentionally excluded.",
+  "creators": [
+    {
+      "name": "Chan, Lining",
+      "affiliation": "Department of Plastic Surgery, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine"
+    },
+    {
+      "name": "Chen, Huiping",
+      "affiliation": "Department of Plastic Surgery, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine"
+    }
+  ],
+  "keywords": [
+    "burn injury",
+    "hypertrophic scar",
+    "RNA sequencing",
+    "extracellular matrix",
+    "wound healing",
+    "reproducible research"
+  ],
+  "access_right": "open"
+}
